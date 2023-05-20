@@ -7,4 +7,5 @@
 // @match        https://roboguru.ruangguru.com/*
 // @icon         https://raw.githubusercontent.com/1rens1/roboguru-paywall-bypass/master/icon.png
 // @grant        none
+// @downloadURL  https://raw.githubusercontent.com/1rens1/roboguru-paywall-bypass/master/rpb.user.js
 // ==/UserScript==
